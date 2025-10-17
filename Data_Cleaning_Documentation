@@ -3,7 +3,7 @@ Data Cleaning Steps for Games.csv (Manually cleaned)
 - Removed all rows before 10-27-2015
 - Removed all rows between 03-11-2020 and 10-20-2021
 - Removed all rows not named "Regular Season" or "Playoffs" in gameType
-- Removed all rows where Toronto Rapters attendance was 0
+- Removed all rows where Toronto Raptors attendance was 0
 - Removed all 0's from seriesGameNumber
 - Added Game numbers in gameSubLabel to match seriesGameNumber
 - Added attendance numnbers where missing
