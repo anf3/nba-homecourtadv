@@ -7,9 +7,9 @@ The primary dataset will be Games.csv from the NBA Dataset, and the TeamStatisti
 
 Two predictive models have been trained:
   1. Logistic Regression Model
-    - Goal:Predict win probability
-    - Features: homeSeasonWinPct, awaySeasonWinPct, playoffs, homePlayoffInteraction
-    - Findings: Home and away team strength are the strong predictors of win probability.
+     - Goal:Predict win probability
+     - Features: homeSeasonWinPct, awaySeasonWinPct, playoffs, homePlayoffInteraction
+     - Findings: Home and away team strength are the strong predictors of win probability.
      
   2. Linear Regression Model
      - Goal: Predict scoring differential
