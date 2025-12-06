@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Home Court Advantages on NBA Game Outcomes: Regular Season vs. Playoffs
 
 This project is intended to analyze the causal effect of having a home court advantage on win probability and scoring differential, and how it differs between the regular season and the playoffs in the National Basketball Association (NBA) using data from _NBA Dataset - Box Scores & Stats, 1947 - Today_ on Kaggle by Eoin A Moore. 
@@ -25,6 +26,8 @@ Model Training Procedures:
   6. Use the validation dataset to tune the model
   7. Evaluate the model on the test dataset
   8. Save the trained model
+=======
+# nba-homecourtadv2
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
@@ -86,4 +89,3 @@ NBA Home Court Advantage Analysis
 --------
 
 >>>>>>> fcf10fa (add cookiecutter data science scaffold for nba project)
-
