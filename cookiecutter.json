@@ -1,5 +1,6 @@
 {
   "project_name": "NBA Home Court Advantage",
+  "project_slug": "nba_homecourtadv",
   "version": "1.0.0",
   "author": "AnPhi",
   "dependencies": {
@@ -7,3 +8,4 @@
     "numpy": "1.21.0"
   }
 }
+
