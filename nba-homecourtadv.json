@@ -1,9 +1,0 @@
-{
-  "project_name": "NBA Home Court Advantage",
-  "version": "1.0.0",
-  "author": "AnPhi",
-  "dependencies": {
-    "flask": "2.0.1",
-    "numpy": "1.21.0"
-  }
-}
